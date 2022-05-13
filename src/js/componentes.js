@@ -104,7 +104,7 @@ ulFiltros.addEventListener('click', () =>{
                 if( completado ){
                     elemento.classList.add('hidden');
                 } break;
-            case 'Completadas':
+            case 'Completados':
             if( !completado ){
                 elemento.classList.add('hidden');
             } break;

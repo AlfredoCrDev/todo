@@ -1,6 +1,6 @@
-# Webpack Starter
+# APP TODO
 
-Este es el proyecto inicial para crear aplicaciones que requieran webpack
+Aplicacion para listar tareas
 
 ### Notas:
 
